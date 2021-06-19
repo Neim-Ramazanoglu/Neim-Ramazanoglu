@@ -10,5 +10,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-- Sharing updates on <a href="https://www.linkedin.com/in/neim-ramazanoglu/">LinkedIn</a> 💻
+<h2 align="left">Let's get connected:</h2>
+
+<a href="https://www.linkedin.com/in/neim-ramazanoglu/">LinkedIn</a> 💻
 
