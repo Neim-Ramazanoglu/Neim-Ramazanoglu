@@ -13,6 +13,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neim-Ramazanoglu&show_icons=true&locale=en&layout=compact" alt="Neim-Ramazanoglu" /></p>
 
+</br></br></br></br></br></br></br>
+
 <h2 align="left">Let's get connected:</h2>
 
 
