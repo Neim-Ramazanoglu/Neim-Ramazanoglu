@@ -9,7 +9,7 @@
 - :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :shamrock: I’m currently learning JavaScript, React.js and Angular
-- :e-mail: You can reach me via <a href="mr.ramazanoglu@gmail.com">
+- :e-mail: You can reach me via **mr.ramazanoglu@gmail.com**
 
 
 
