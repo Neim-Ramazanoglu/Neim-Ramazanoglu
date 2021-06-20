@@ -12,3 +12,4 @@
 
 <a href="https://www.linkedin.com/in/neim-ramazanoglu/">LinkedIn</a> 💻
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neim-Ramazanoglu&show_icons=true&locale=en&layout=compact" alt="Neim-Ramazanoglu" /></p>
