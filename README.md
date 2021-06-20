@@ -8,6 +8,7 @@
 
 - :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
+- : I’m currently learning JavaScript, React.js etc.
 
 
 
