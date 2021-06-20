@@ -1,7 +1,7 @@
 # Hi, I'm Neim 👩🏼‍💻
 
-<a href="https://github.com/uneyss">
- <img src="https://komarev.com/ghpvc/?username=uneyss" alt="page views" width="200" />
+<a href="https://github.com/Neim-Ramazanoglu">
+ <img src="https://komarev.com/ghpvc/?username=Neim-Ramazanoglu" alt="page views" width="100" />
   </a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
