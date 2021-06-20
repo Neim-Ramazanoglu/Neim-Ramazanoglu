@@ -8,10 +8,12 @@
 
 - :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
-<h2 align="left">Let's get connected:</h2>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neim-Ramazanoglu&show_icons=true&locale=en&layout=compact" alt="Neim-Ramazanoglu" /></p>
+
+<h2 align="left">Let's get connected:</h2>
+
 
 <a href="https://www.linkedin.com/in/neim-ramazanoglu/">LinkedIn</a> 💻
