@@ -20,7 +20,8 @@
 
 <h2 align="left">Let's get connected:</h2>
 
-
+<p>
  <a href="https://www.linkedin.com/in/neimramazanoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@neimramazanoglu-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
  
  <a href="mailto:mr.ramazanoglu@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mr.ramazanoglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
+</p>
