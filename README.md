@@ -1,6 +1,6 @@
 # Hi, I'm Neim 👩🏼‍💻
 
-<a href="https://github.com/Neim-Ramazanoglu&colorbrightgreen">
+<a href="https://github.com/Neim-Ramazanoglu&color=brightgreen">
  <img src="https://komarev.com/ghpvc/?username=Neim-Ramazanoglu" alt="page views" width="100" />
   </a>
 
