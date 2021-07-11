@@ -1,4 +1,4 @@
-# Hi, I'm Neim 👨
+# Hi, I'm Neim
 
 <a href="https://github.com/Neim-Ramazanoglu">
  <img src="https://komarev.com/ghpvc/?username=Neim-Ramazanoglu&color=brightgreen" alt="page views" width="100" />
