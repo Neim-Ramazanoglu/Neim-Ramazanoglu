@@ -9,7 +9,7 @@
 - :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :computer: Skills: HTML, CSS, JavaScript and React JS
-- :shamrock: I’m currently learning JavaScript, React.js and Angular
+- :shamrock: I’m currently learning TypeScript and Jinja
 - :e-mail: You can reach me via **mr.ramazanoglu@gmail.com**
 
 
