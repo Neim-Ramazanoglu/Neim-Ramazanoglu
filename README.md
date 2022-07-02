@@ -8,7 +8,7 @@
 
 - :rocket: Always ready to collaborate for Dev Experiments
 - :computer: Skills: HTML, CSS, JavaScript and React JS
-- :shamrock: I’m currently learning  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;  and Jinja
+- :shamrock: I’m currently learning  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;  and Jinja
 - :e-mail: You can reach me via **mr.ramazanoglu@gmail.com**
 
 
