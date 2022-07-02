@@ -6,7 +6,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: I am an Industrial Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :computer: Skills: HTML, CSS, JavaScript and React JS
 - :shamrock: I’m currently learning TypeScript and Jinja
